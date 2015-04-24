@@ -1,4 +1,4 @@
-# DockStack
+# AppStack
 Application stacks with Docker
 
 ## Contents
