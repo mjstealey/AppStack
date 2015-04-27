@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# appstack-build
+# appstack-build.sh
 # Author: Michael Stealey <michael.j.stealey@gmail.com>
 
 APPSTACK_PATH=$1
